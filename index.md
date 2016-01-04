@@ -64,6 +64,18 @@ To do all that, we'll have to learn a little bit about programming.
 > $ cd && cd Desktop/python-novice-inflammation/data
 > ~~~
 
+> ## Starting iPython {.getready}
+>
+> We will be using iPython for the lessons.  iPython is an interactive interface for python that is very useful for learning and 
+> debugging python.  In the [Setup](https://swc-osg-workshop.github.io/2016-01-06-UNL/setup.html), you should have already installed
+> iPython.
+>
+> To start iPython in Mac OSX, open a terminal and type the command:
+>
+> ~~~ {.input}
+> $ ipython notebook
+> ~~~
+
 ## Topics
 
 1.  [Analyzing Patient Data](01-numpy.html)
