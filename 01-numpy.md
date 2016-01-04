@@ -673,10 +673,6 @@ the graphs will actually be squeezed together more closely.)
 > what does `data[3:3, 4:4]` produce?
 > What about `data[3:3, :]`?
 
-> ## Check your understanding: plot scaling {.challenge}
->
-> Why do all of our plots stop just short of the upper end of our graph?
-
 > ## Check your understanding: drawing straight lines {.challenge}
 >
 > Why are the vertical lines in our plot of the minimum inflammation per day not perfectly vertical?
